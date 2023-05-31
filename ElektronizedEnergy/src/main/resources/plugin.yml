@@ -1,0 +1,4 @@
+name: ElektronizedEnergy
+version: '${project.version}'
+main: me.dracofaad.elektronizedenergy.ElektronizedEnergy
+api-version: 1.19
